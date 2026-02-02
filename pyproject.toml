@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=67"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "collatz_ghost"
+version = "0.1.0"
+description = "Certificate-based 2-adic Collatz pattern prover"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+collatz-ghost = "collatz_ghost.cli:main"

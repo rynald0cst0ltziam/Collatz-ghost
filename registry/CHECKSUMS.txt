@@ -1,0 +1,3 @@
+# Collatz-Ghost Atlas Checksums
+# Format: SHA256  filename
+# Generated checksums for all completed atlas files
