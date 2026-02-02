@@ -189,5 +189,7 @@ If you use this work, please cite:
 
 ## 📜 License
 
-MIT
+MIT License - Copyright (c) 2026 Rynald0 Stoltz
+
+See [LICENSE](LICENSE) for full details.
 
