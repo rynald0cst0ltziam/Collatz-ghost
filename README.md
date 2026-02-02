@@ -63,7 +63,6 @@ collatz-ghost verify --cert results.jsonl
 | [docs/GHOST_TRACKING.md](docs/GHOST_TRACKING.md) | Ghost tracking and analysis system |
 | [docs/REAL_CYCLE_PROTOCOL.md](docs/REAL_CYCLE_PROTOCOL.md) | What happens if a real cycle is found |
 | [BOX_CLEARING_PLAN.md](BOX_CLEARING_PLAN.md) | Systematic enumeration strategy |
-| [UNEXPLORED_RUNBOOK.md](UNEXPLORED_RUNBOOK.md) | High-impact configurations to run |
 
 ## Certificate Types
 
