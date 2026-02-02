@@ -23,7 +23,7 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 
 ## What Collatz-Ghost Brings to the Table
 
-### 1. Certificate-Based Proofs (First of Its Kind)
+### 1. Certificate-Based Proofs
 
 Every exclusion produces a **verifiable certificate**:
 - Type A: Exact rational arithmetic proof
