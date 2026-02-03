@@ -178,9 +178,10 @@ If you use this work, please cite:
 
 ```bibtex
 @software{collatz_ghost,
+  author = {Stoltz, Rynaldo},
   title = {Collatz-Ghost: Certificate-Based 2-Adic Cycle Pattern Prover},
   year = {2026},
-  url = {[[https://github.com/[your-repo]/collatz-ghost](https://github.com/rynald0cst0ltziam/Collatz-ghost/)](https://github.com/rynald0cst0ltziam/Collatz-ghost/)}
+  url = {https://github.com/rynald0cst0ltziam/Collatz-ghost}
 }
 ```
 
