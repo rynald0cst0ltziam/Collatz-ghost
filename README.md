@@ -103,14 +103,14 @@ collatz_ghost/
 ├── summaries/           # Human-readable summaries
 └── tools/               # Analysis utilities
 ```
-## Already Cleared (Updated 03022026)
+## Already Cleared (03022026)
 
-| Box       | Total Patterns | Status        | Result                 |
-|-----------|----------------|---------------|------------------------|
-| M28, A2   | 268,435,456    | ✓ Verified    | 0 non-trivial cycles   |
-| M24, A2   | 16,777,216     | ✓ Verified    | 0 non-trivial cycles   |
-| M14, A3   | 4,782,969      | ✓ Verified    | 0 non-trivial cycles   |
-| M12, A3   | 531,441        | ✓ Verified    | 0 non-trivial cycles   |
+| Box     | M  | A | Total Patterns | Verified | Ghosts | Trivial Cycles | Non-Trivial Cycles |
+|---------|----|---|----------------|----------|--------|----------------|--------------------|
+| M12, A3 | 12 | 3 | 531,441        | ✓        | 1      | 1              | 0                  |
+| M14, A3 | 14 | 3 | 4,782,969      | ✓        | 1      | 1              | 0                  |
+| M24, A2 | 24 | 2 | 16,777,216     | ✓        | 1      | 1              | 0                  |
+| M28, A2 | 28 | 2 | 268,435,456    | ✓        | 1      | 1              | 0                  |
 
 
 ## Key Concepts
