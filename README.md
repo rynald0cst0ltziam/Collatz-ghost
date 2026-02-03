@@ -102,6 +102,15 @@ collatz_ghost/
 ├── summaries/           # Human-readable summaries
 └── tools/               # Analysis utilities
 ```
+## Already Cleared (Updated 03022026)
+
+| Box       | Total Patterns | Status        | Result                 |
+|-----------|----------------|---------------|------------------------|
+| M28, A2   | 268,435,456    | ✓ Verified    | 0 non-trivial cycles   |
+| M24, A2   | 16,777,216     | ✓ Verified    | 0 non-trivial cycles   |
+| M14, A3   | 4,782,969      | ✓ Verified    | 0 non-trivial cycles   |
+| M12, A3   | 531,441        | ✓ Verified    | 0 non-trivial cycles   |
+
 
 ## Key Concepts
 
